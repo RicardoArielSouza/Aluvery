@@ -1,4 +1,4 @@
-package br.com.racstech.aluvery.ui.theme.components
+package br.com.racstech.aluvery.ui.components
 
 import android.content.res.Configuration
 import androidx.compose.foundation.background
