@@ -100,9 +100,9 @@ fun ProductItemPreview() {
         Surface {
             ProductItem(
                 Product(
-                name = LoremIpsum(50).values.first(),
-                price = BigDecimal("14.99")
-            )
+                    name = LoremIpsum(50).values.first(),
+                    price = BigDecimal("14.99")
+                )
             )
         }
     }

@@ -41,7 +41,7 @@ fun ProductsSection(
             horizontalArrangement = Arrangement.spacedBy(16.dp),
             contentPadding = PaddingValues(horizontal = 16.dp)
         ) {
-            items(products){ p->
+            items(products) { p ->
                 ProductItem(product = p)
             }
         }
